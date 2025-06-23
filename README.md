@@ -42,4 +42,4 @@ Hi, I'm working on multiple projects including:
 ### Software Familiarity
 
 - Figma  
-- ChatGPT
+- AI
